@@ -1,4 +1,4 @@
-# Laravel 9 Livewire 簡單廣告、橫幅、額外資訊管理工具
+# Laravel 10 Livewire 簡單廣告、橫幅、額外資訊管理工具
 
 引入 5balloons 的 laravel-smart-ads 套件來擴增簡單廣告、橫幅、額外資訊管理工具，可以建立廣告以及追蹤活動點擊成效來瞭解廣告活動吸引潛在客戶的效果，並據此調整廣告來提升宣傳效益。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/p6bLfiU.png)
+![](https://i.imgur.com/AXN0GBr.png)
 > 廣告與客戶搜尋標的的關聯性越高，對客戶的吸引力就越大，更有可能帶來理想成效
